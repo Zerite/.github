@@ -12,3 +12,4 @@ Many of our projects are open source and can be found on our [GitHub](https://gi
 Here are some of our most popular projects:
 
 * [CraftLib](https://github.com/Zerite/CraftLib) - A wrapper for all things Minecraft (supports 1.7.x - 1.8.x). *Protocol, NBT, chat, schematics, etc.*
+* [Multifold](https://github.com/MultifoldLauncher) - A next-generation cross-platform Minecraft Launcher.
