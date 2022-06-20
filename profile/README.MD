@@ -1,4 +1,4 @@
-![Banner](https://github.com/Zerite/.github/raw/master/assets/branding/banner.png)
+![Banner](/assets/branding/banner.png)
 
 # Hey, we're Zerite! 👋
 
